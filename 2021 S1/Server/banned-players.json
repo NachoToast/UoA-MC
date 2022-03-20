@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "7493a2a8-6544-47f6-bf1a-fbd95d9a0c1d",
+    "name": "P_Cubensis",
+    "created": "2021-03-11 18:33:04 +1300",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "4f5584e3-37b6-417e-9f22-3564b9622c0e",
+    "name": "LordHeck69",
+    "created": "2021-03-01 15:03:43 +1300",
+    "source": "NachoToast",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "00000000-0000-0000-0009-01f9ddc9a4d8",
+    "name": "BED_Buckybarnes5",
+    "created": "2021-04-08 03:46:50 +1200",
+    "source": "NachoToast",
+    "expires": "forever",
+    "reason": "\"Please contact NachoToast on Discord\""
+  },
+  {
+    "uuid": "3e5896d7-e147-4afb-935b-c7ece2da31c9",
+    "name": "ReturnOfTheLord",
+    "created": "2021-04-08 03:28:54 +1200",
+    "source": "NachoToast",
+    "expires": "forever",
+    "reason": "\"do i really need to explain this one?\""
+  },
+  {
+    "uuid": "dbd671db-2ab2-43e8-8bc1-b65c9ac81eeb",
+    "name": "TheForge17",
+    "created": "2021-03-11 23:18:33 +1300",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "2b361241-abfa-4aa7-8003-b623e99341e5",
+    "name": "swagtacoman83",
+    "created": "2021-03-01 15:14:18 +1300",
+    "source": "NachoToast",
+    "expires": "forever",
+    "reason": "\"flying really is not enabled on this server\""
+  },
+  {
+    "uuid": "9cd05fe9-433d-49d6-801f-c9f28cc90925",
+    "name": "69TB",
+    "created": "2021-04-08 03:29:02 +1200",
+    "source": "NachoToast",
+    "expires": "forever",
+    "reason": "\"\""
+  },
+  {
+    "uuid": "b61acf20-f3f0-49bc-9443-763fe0830f5a",
+    "name": "Zaddymyass",
+    "created": "2021-02-27 16:16:20 +1300",
+    "source": "NachoToast",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

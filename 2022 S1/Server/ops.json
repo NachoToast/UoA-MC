@@ -1,0 +1,14 @@
+[
+    {
+        "uuid": "1c48aa0e-98d2-407b-9d05-c95bb7f239f9",
+        "name": "NachoToast",
+        "level": 4,
+        "bypassesPlayerLimit": true
+    },
+    {
+        "uuid": "b5470cbf-e8ba-4bd1-9666-efeff7040d48",
+        "name": "joeo",
+        "level": 4,
+        "bypassesPlayerLimit": false
+    }
+]

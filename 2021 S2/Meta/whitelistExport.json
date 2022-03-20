@@ -1,0 +1,524 @@
+[
+    { "type": "header", "version": "5.0.4", "comment": "Export to JSON plugin for PHPMyAdmin" },
+    { "type": "database", "name": "toaster" },
+    {
+        "type": "table",
+        "name": "mc_players",
+        "database": "toaster",
+        "data": [
+            {
+                "discord": "110951405551898624",
+                "minecraft": "fragilejate",
+                "java": "1",
+                "applied": "1624956575",
+                "accepted": "1624956757",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "118192754219024391",
+                "minecraft": "Lr_",
+                "java": "1",
+                "applied": "1625120401",
+                "accepted": "1625136900",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "141365591561732097",
+                "minecraft": "Biscuitmunch",
+                "java": "1",
+                "applied": "1624540447",
+                "accepted": "1624661810",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "142517165160005632",
+                "minecraft": "Netraloip",
+                "java": "1",
+                "applied": "1624711651",
+                "accepted": "1624749956",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "149421726499864576",
+                "minecraft": "Hikaru2486",
+                "java": "1",
+                "applied": "1624771853",
+                "accepted": "1624771953",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "152934423849992192",
+                "minecraft": "AnotherTrojan",
+                "java": "1",
+                "applied": "1624795770",
+                "accepted": "1624796182",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "155523812522328065",
+                "minecraft": "liluccino",
+                "java": "1",
+                "applied": "1624797106",
+                "accepted": "1624801613",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "190747796452671488",
+                "minecraft": "SnapperSlayer",
+                "java": "1",
+                "applied": "1624601448",
+                "accepted": "1624661810",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "193247118742257674",
+                "minecraft": "elizie",
+                "java": "1",
+                "applied": "1624681091",
+                "accepted": "1624681125",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "198892706087436281",
+                "minecraft": "asdasd",
+                "java": "1",
+                "applied": "1624841919",
+                "accepted": "1624842459",
+                "accepted_by": "1",
+                "status": "Rejected Whitelist Application"
+            },
+            {
+                "discord": "198892706087436282",
+                "minecraft": "asdasdasd",
+                "java": "1",
+                "applied": "1624842018",
+                "accepted": "1624842459",
+                "accepted_by": "1",
+                "status": "Rejected Whitelist Application"
+            },
+            {
+                "discord": "198892706087436288",
+                "minecraft": "DrZeedle",
+                "java": "1",
+                "applied": "1624701625",
+                "accepted": "1624701630",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "201892070091128832",
+                "minecraft": "PolarWolf314",
+                "java": "1",
+                "applied": "1624582870",
+                "accepted": "1624661810",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "218979152672325632",
+                "minecraft": "joeo",
+                "java": "1",
+                "applied": "1624536146",
+                "accepted": "1624661810",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "225369118449074176",
+                "minecraft": "Dracally",
+                "java": "1",
+                "applied": "1624943066",
+                "accepted": "1624943418",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "225708387558490112",
+                "minecraft": "Singularitat",
+                "java": "1",
+                "applied": "1624678887",
+                "accepted": "1624678916",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "232271547207909377",
+                "minecraft": "Itz_Synchro",
+                "java": "1",
+                "applied": "1624575548",
+                "accepted": "1624661810",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "236597965156909056",
+                "minecraft": "Dakskihedron",
+                "java": "1",
+                "applied": "1624589055",
+                "accepted": "1624661810",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "240312568273436674",
+                "minecraft": "NachoToast",
+                "java": "1",
+                "applied": "1624534155",
+                "accepted": "1624661618",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "241757436720054273",
+                "minecraft": "NomadElves",
+                "java": "1",
+                "applied": "1624772335",
+                "accepted": "1624772379",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "249304509048815627",
+                "minecraft": "InnocentChicken",
+                "java": "1",
+                "applied": "1625226521",
+                "accepted": "1625292950",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "249380599180165121",
+                "minecraft": "FlipSide114",
+                "java": "1",
+                "applied": "1624653047",
+                "accepted": "1624661810",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "252721483111989248",
+                "minecraft": "Flabberghasted__",
+                "java": "1",
+                "applied": "1624669166",
+                "accepted": "1624673417",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "260929172044644352",
+                "minecraft": "Nivetha5300",
+                "java": "1",
+                "applied": "1624535929",
+                "accepted": "1624661810",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "260930648330469387",
+                "minecraft": "pumbas600",
+                "java": "1",
+                "applied": "1624581863",
+                "accepted": "1624661810",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "274054690789130240",
+                "minecraft": "TheStateOfWei",
+                "java": "1",
+                "applied": "1624672522",
+                "accepted": "1624673219",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "275418260982333440",
+                "minecraft": "Daeani",
+                "java": "1",
+                "applied": "1624787539",
+                "accepted": "1624796182",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "278573676142526487",
+                "minecraft": "CosmicTemplar",
+                "java": "1",
+                "applied": "1624683428",
+                "accepted": "1624683888",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "298678784276824065",
+                "minecraft": "j1732",
+                "java": "1",
+                "applied": "1624535366",
+                "accepted": "1624661810",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "298678784276824734",
+                "minecraft": "e",
+                "java": "1",
+                "applied": "1625213818",
+                "accepted": "1625218598",
+                "accepted_by": "1",
+                "status": "Rejected Whitelist Application"
+            },
+            {
+                "discord": "300411278663614464",
+                "minecraft": "Vilenix",
+                "java": "1",
+                "applied": "1626252823",
+                "accepted": "1626252885",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "306590984417050625",
+                "minecraft": "HungusHumongous",
+                "java": "1",
+                "applied": "1624589352",
+                "accepted": "1624661810",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "319910282506010626",
+                "minecraft": "erics893",
+                "java": "1",
+                "applied": "1624770581",
+                "accepted": "1624771556",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "342562027539136513",
+                "minecraft": "LordTechnu",
+                "java": "1",
+                "applied": "1625640910",
+                "accepted": "1625644746",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "350577753512476681",
+                "minecraft": "Rucccccc",
+                "java": "1",
+                "applied": "1624755533",
+                "accepted": "1624755728",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "355545726291542020",
+                "minecraft": " ZazzedCoffee",
+                "java": "1",
+                "applied": "1624847144",
+                "accepted": "1624861100",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "357030321314725889",
+                "minecraft": "Honeycrumble",
+                "java": "1",
+                "applied": "1624535563",
+                "accepted": "1624661810",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "366455215093973003",
+                "minecraft": "Alienlein",
+                "java": "1",
+                "applied": "1626248304",
+                "accepted": "1626249766",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "374394587369701377",
+                "minecraft": "Ecult",
+                "java": "1",
+                "applied": "1624774019",
+                "accepted": "1624796182",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "384243253563752449",
+                "minecraft": "rocky7211",
+                "java": "1",
+                "applied": "1624794804",
+                "accepted": "1624794848",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "403704091768782858",
+                "minecraft": "ShiftingDNA ",
+                "java": "1",
+                "applied": "1624535482",
+                "accepted": "1624661810",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "410613840502456350",
+                "minecraft": "kindofanidiot",
+                "java": "1",
+                "applied": "1624611030",
+                "accepted": "1624661810",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "476652435436470282",
+                "minecraft": "KawaiiTaboo",
+                "java": "1",
+                "applied": "1625229704",
+                "accepted": "1625292950",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "516907884618055692",
+                "minecraft": "Donut_The_1st",
+                "java": "1",
+                "applied": "1624869969",
+                "accepted": "1624870100",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "532457512100954122",
+                "minecraft": "ABotNamedJim",
+                "java": "1",
+                "applied": "1629183009",
+                "accepted": "1629188353",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "554561993659383838",
+                "minecraft": "Sammy233",
+                "java": "1",
+                "applied": "1625037531",
+                "accepted": "1625037714",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "555664393132703755",
+                "minecraft": "Eaglestrike135",
+                "java": "1",
+                "applied": "1624679636",
+                "accepted": "1624679645",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "584912560135077928",
+                "minecraft": "Jvelasquez36",
+                "java": "1",
+                "applied": "1624669896",
+                "accepted": "1624673219",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "667321018917847040",
+                "minecraft": "Entity9888",
+                "java": "1",
+                "applied": "1625199086",
+                "accepted": "1625199101",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "691535486287872023",
+                "minecraft": "Officiallydan",
+                "java": "1",
+                "applied": "1624703840",
+                "accepted": "1624704555",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "691803763157106689",
+                "minecraft": "SkylarSkyz",
+                "java": "1",
+                "applied": "1624858740",
+                "accepted": "1624861100",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "698528213810544650",
+                "minecraft": "uzji",
+                "java": "1",
+                "applied": "1624818114",
+                "accepted": "1624832119",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "711392275426574376",
+                "minecraft": "Minam1",
+                "java": "1",
+                "applied": "1624875425",
+                "accepted": "1624894162",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "725645688783896696",
+                "minecraft": "1Settmain",
+                "java": "1",
+                "applied": "1625042494",
+                "accepted": "1625045309",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "745472420856463451",
+                "minecraft": "MCMatt102",
+                "java": "1",
+                "applied": "1624700657",
+                "accepted": "1624701103",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "756807093171912745",
+                "minecraft": "sysstic",
+                "java": "1",
+                "applied": "1624535577",
+                "accepted": "1624661747",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            },
+            {
+                "discord": "828469169175003157",
+                "minecraft": "kaich",
+                "java": "1",
+                "applied": "1625048956",
+                "accepted": "1625049109",
+                "accepted_by": "1",
+                "status": "Approved Whitelist Application"
+            }
+        ]
+    }
+]
